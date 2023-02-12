@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Developer Portfolio - Raymond Benito"
+title: "Developer Portfolio - Raymond Benito"
+description: "An overview of my past and ongoing software projects, as well as my personal blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 disqus: 'demowebsite'
@@ -18,15 +18,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
+  raymond:
+    name: Raymond
+    display_name: Raymond
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
+    email: raymondbenito5@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: https://twitter.com/RaymondBenito
+    description: "Young developer that's about to begin starting his software development journey."
 
 # Plugins
 plugins:
